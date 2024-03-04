@@ -27,7 +27,7 @@ Location: Boryspil, Ukraine
 Декретна відпустка по догляду за дитиною
 
 `Грудень 2021 — Липень 2022`
-Junior DevOps Engineer, "Luxoft", віддалено.
+Junior DevOps Engineer, "Luxoft", віддалено
 Проект "NTG7 Automotive" від компанії 'Daimler AG' являє собою розробку ПЗ для автомобілів марки "Mercedes-Benz"
 * Jenkins, Jenkins Pipeline - створення джоб та оперування ними, створення Docker-контейнерів в джобах, виправлення падіння активних джоб
 * Jira processing - оптимізація наявних скриптів для джоб та створення нових на Python
