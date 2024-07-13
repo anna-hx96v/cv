@@ -14,8 +14,11 @@ Location: Boryspil, Ukraine
 Вітаю конструктивну критику.
 З дитинства люблю комп'ютери.
 Активно працюю над покращенням своїх знань в напрямках адміністрування та розробки.
-Мене приваблює методологія DevOps та оптимальні практики, такі як Infrastructure as Code та Continuous Integration.
-Цікавлюсь автоматизацією рутинних задач, планую розвиток в Python.
+Комфортно почуваю себе в терміналі Linux своєї Linux Mint.
+Мене приваблює культура DevOps та оптимальні практики, такі як Infrastructure as Code та Continuous Integration.
+Цікавлюсь автоматизацією рутинних задач.
+В процесі вдосконалення своїх навичок в Docker, Jenkins, Scripting та інших інструментах DevOps.
+У своєму Linux Mint я активно цікавлюсь різними сервісами для зручності, експериментую з контейнеризацією та практикую Git на різних завданнях.  
 Буду рада досягти поставлені цілі разом з Вами!
 
 ## Освіта
@@ -29,6 +32,7 @@ Junior DevOps Engineer, "Luxoft", віддалено.
 * Jenkins, Jenkins Pipeline - створення джоб та оперування ними, створення Docker-контейнерів в джобах, виправлення падіння активних джоб
 * Jira processing - оптимізація наявних скриптів для джоб та створення нових на Python
 * Git - робота з гілками та комітами, внесення своїх змін під контролем колег
+* Scrum - робота по даній методології
 
 `Серпень 2021`
 Стажування - Junior DevOps Engineer, "WoW Digital Marketing", Київ
@@ -51,6 +55,7 @@ Junior DevOps Engineer, "Luxoft", віддалено.
 * Jenkins Pipeline
 * Основи Python
 * Git
+* Scrum методологія
 * Командний рядок Bash
 * Основи Bash програмування
 * Git / Основи GitHub
@@ -74,15 +79,15 @@ Junior DevOps Engineer, "Luxoft", віддалено.
 * [Linux Pocket Guide](https://www.goodreads.com/book/show/128172.Linux_Pocket_Guide) by Daniel J. Barrett
 * [Bash Reference Manual](https://www.gnu.org/software/bash/manual/bash.pdf)
 * [Pro Git](https://git-scm.com/book/en/v2) by Scott Chacon
+* [UNIX and Linux System Administration Handbook](https://www.goodreads.com/book/show/8772005-unix-and-linux-system-administration-handbook) by Evi Nemeth, Garth Snyder
 
 ## Планую прочитати
 * [The DevOps Handbook](https://www.goodreads.com/book/show/26083308-the-devops-handbook) by Gene Kim
 * [The Debian Administrator's Handbook](http://debian-handbook.info/download/stable/debian-handbook.pdf) by Raphaël Hertzog, Roland Mas
-* [UNIX and Linux System Administration Handbook](https://www.goodreads.com/book/show/8772005-unix-and-linux-system-administration-handbook) by Evi Nemeth, Garth Snyder
 
 ## Планую вивчити
 * [LPIC-1](https://www.lpi.org/our-certifications/lpic-1-overview)
 * Python
-* Nginx / Apache
+* Ansible / Terraform
 * Docker / Kubernetes
-* Zabbix
+* Monitoring tools
